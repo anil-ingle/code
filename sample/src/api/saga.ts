@@ -18,8 +18,8 @@ function fetchToken() {
 
     // FIXME: use existing info from config
     let body = {
-        client_secret: 'mWCzWSR5y3lSxFH5hFDR7Su8Sj7BUcu79ymQsoAZPn',
-        client_id: 'FupKa5ianbEFFFqt7zuv7dvBJWMfRpZnN4B3v6y7Da',
+        client_secret: 'mWCzWSR5y3lSxFH5hFDR7Su8Sj7BUcxxxxxxxxxxxxn',
+        client_id: 'FupKa5ianbEFFFqt7zuv7dvBJWMfxxxxxxxxxxxxxxxxxxxx',
         grant_type: 'client_credentials'
     };
 
